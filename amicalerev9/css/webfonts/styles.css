@@ -1,0 +1,8 @@
+
+@font-face {
+	font-family: 'SlabTallX';
+	src: url('SlabTallX.eot?') format('eot'), 
+	     url('SlabTallX.woff') format('woff'), 
+	     url('SlabTallX.ttf')  format('truetype'),
+	     url('SlabTallX.svg#SlabTallX') format('svg');
+}
